@@ -1,0 +1,8 @@
+{
+  "name": "Ciro - proposta",
+  "description": "Apresentação executiva e proposta comercial da Sense Sales para Ciro Kastrup - Te levo lá.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
